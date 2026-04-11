@@ -1,6 +1,8 @@
 # 免费公益节点（仅备用!）24小时更新
 ## ⚠ 提供日常免费备用节点！防失联节点！建议收藏本网页
 
+翻墙机场推荐 | 好用稳定机场节点 | 机场评测 | 秒杀VPN【2026年4月持续更新】：https://github.com/029danio/fly
+
 hy2://99db4cd7-01b2-433a-af29-3d0f2f3e2de4@hkaws.ccwink.photos:58?auth=99db4cd7-01b2-433a-af29-3d0f2f3e2de4&alpn=h3&congestion\_control=cubic&udp\_relay\_mode=native&up=10&down=50&sni=moak.ccwink.cc&insecure=1#%E2%98%81%EF%B8%8F+%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF05
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.101.164:8443?type=ws&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&encryption=none#%E2%98%81%EF%B8%8F+%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A701
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.218:38388#%E2%98%81%EF%B8%8F+%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF13
