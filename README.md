@@ -1,11 +1,16 @@
 # 免费公益节点（仅备用!）24小时更新
 ## ⚠ 提供日常免费备用节点！防失联节点！建议收藏本网页
 
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=%2Fproxy#US%E7%BE%8E%E5%9B%BD%28v2clash.blog%202026-4.26%E6%9B%B4%E6%96%B0%29
 vless://00000000-0000-4000-8000-000000000000@147.79.20.221:36008?type=ws&path=%2F%40Marisa\_kristi&host=kt58ndxywnrrgg.majusti.dpdns.org&security=tls&sni=kt58ndxywnrrgg.majusti.dpdns.org&encryption=none#%E2%98%81%EF%B8%8F+%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC09
 vless://00000000-0000-4000-8000-000000000000@103.146.90.5:56305?type=ws&path=%2F%40Marisa\_kristi&host=kt58ndxywnrrgg.majusti.dpdns.org&security=tls&sni=kt58ndxywnrrgg.majusti.dpdns.org&encryption=none#%E2%98%81%EF%B8%8F+%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD36
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.148.58.153:8443?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#DE%E5%BE%B7%E5%9B%BD%28v2clash.blog%202026-4.26%E6%9B%B4%E6%96%B0%29
 hy2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?auth=48b36b6a-eaa6-4843-9231-0bb8b38b5da5&alpn=h3&congestion\_control=cubic&udp\_relay\_mode=native&up=10&down=50&sni=hy2-sg.onetaplink.app&insecure=1#%E2%98%81%EF%B8%8F+%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A101
 trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:5784?security=tls&sni=www.baidu.com&allowInsecure=1&type=tcp#%E2%98%81%EF%B8%8F+%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A101
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.123:38388#%E2%98%81%EF%B8%8F+%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF04
+vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@162.159.44.66:2053?encryption=none&security=tls&sni=fu.baiproxy.us.ci&type=ws&host=fu.baiproxy.us.ci&path=%2F%3Fed%3D2560#US%E7%BE%8E%E5%9B%BD%28v2clash.blog%202026-4.26%E6%9B%B4%E6%96%B0%29
+trojan://1234567890@148.253.210.141:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#DE%E5%BE%B7%E5%9B%BD%28v2clash.blog%202026-4.26%E6%9B%B4%E6%96%B0%29
+trojan://1234567890@104.128.139.68:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#US%E7%BE%8E%E5%9B%BD%28v2clash.blog%202026-4.26%E6%9B%B4%E6%96%B0%29
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.152.21:443?type=ws&path=%2F%3Fed%3D2560&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&encryption=none#%E2%98%81%EF%B8%8F+%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD03
 hy2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@usa-hy2.onetaplink.app:443?auth=48b36b6a-eaa6-4843-9231-0bb8b38b5da5&alpn=h3&congestion\_control=cubic&udp\_relay\_mode=native&up=10&down=50&sni=hy2-usa.onetaplink.app#%E2%98%81%EF%B8%8F+%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD01
 vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?type=ws&path=%2F%40Marisa\_kristi&host=kt58ndxywnrrgg.majusti.dpdns.org&security=tls&sni=kt58ndxywnrrgg.majusti.dpdns.org&encryption=none#%E2%98%81%EF%B8%8F+%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD30
