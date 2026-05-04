@@ -1,6 +1,9 @@
 # 免费公益节点（仅备用!）24小时更新
 ## ⚠ 提供日常免费备用节点！防失联节点！建议收藏本网页
 
+# 翻墙机场推荐 | 好用稳定机场节点 | 机场评测 | 秒杀VPN【2026年5月持续更新】：https://github.com/029danio/fly 
+😍😍😍 TG免费福利搜索：https://t.me/jisou?start=a_1638135106 电报神器，搜啥有啥。［聊天框发送要搜的关键词，就可以了］
+
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=%2Fproxy#US%E7%BE%8E%E5%9B%BD%28v2clash.blog%202026-4.26%E6%9B%B4%E6%96%B0%29
 vless://00000000-0000-4000-8000-000000000000@147.79.20.221:36008?type=ws&path=%2F%40Marisa\_kristi&host=kt58ndxywnrrgg.majusti.dpdns.org&security=tls&sni=kt58ndxywnrrgg.majusti.dpdns.org&encryption=none#%E2%98%81%EF%B8%8F+%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC09
 vless://00000000-0000-4000-8000-000000000000@103.146.90.5:56305?type=ws&path=%2F%40Marisa\_kristi&host=kt58ndxywnrrgg.majusti.dpdns.org&security=tls&sni=kt58ndxywnrrgg.majusti.dpdns.org&encryption=none#%E2%98%81%EF%B8%8F+%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD36
@@ -52,4 +55,4 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 hy2://99db4cd7-01b2-433a-af29-3d0f2f3e2de4@tw.ccwink.cc:30102?auth=99db4cd7-01b2-433a-af29-3d0f2f3e2de4&alpn=h3&congestion\_control=cubic&udp\_relay\_mode=native&up=10&down=50&sni=tw.ccwink.cc&insecure=1#%E2%98%81%EF%B8%8F+%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE01
 
 
-# 翻墙机场推荐 | 好用稳定机场节点 | 机场评测 | 秒杀VPN【2026年4月持续更新】：https://github.com/029danio/fly 
+
