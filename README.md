@@ -3,7 +3,7 @@
 
 ✈✈✈翻墙机场推荐 | 好用稳定机场节点 | 机场评测 | 秒杀VPN【2026年10月持续更新】：https://github.com/029danio/fly 
 
-😍😍😍 TG免费福利搜索：https://t.me/jisou?start=a_1638135106 电报神器，搜啥有啥。［聊天框发送要搜的关键词，就可以了］
+😍😍😍 TG免费福利搜索：https://t.me/jisou?start=a_1759844134 电报神器，搜啥有啥。［聊天框发送要搜的关键词，就可以了］
 vless://8c88c56d-5efb-4218-8753-0c2365dfe96a@sg2.oh-node.com:443?encryption=none&security=reality&type=tcp&sni=sg-hyp-api.hoyoverse.com&flow=xtls-rprx-vision&fp=chrome&pbk=Oh-r_LCdfRhSzm9zQEv-0jMO57hebZJzOmSTTGveh2c&sid=5f2ca3da385c#%F0%9F%87%B8%F0%9F%87%AC_%E6%96%B0%E5%8A%A0%E5%9D%A1_7
 vless://8c88c56d-5efb-4218-8753-0c2365dfe96a@sg1.oh-node.com:443?encryption=none&security=reality&type=tcp&sni=sg-hyp-api.hoyoverse.com&flow=xtls-rprx-vision&fp=chrome&pbk=vUhHTgZiXSho6Nv84w_JZW7Mo7XjJr0TsOBf19Dpols&sid=37c94ae25b69a93a#%F0%9F%87%B8%F0%9F%87%AC_%E6%96%B0%E5%8A%A0%E5%9D%A1_8
 vless://8c88c56d-5efb-4218-8753-0c2365dfe96a@my2.oh-node.com:443?encryption=none&security=reality&type=tcp&sni=www.setel.com&flow=xtls-rprx-vision&fp=chrome&pbk=R6q8qhMxgq3ynJPUgudaRkcDXj0qgoc_UU1N0SWGLwM&sid=ed77ac35a310#%F0%9F%87%B2%F0%9F%87%BE_%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A_9
