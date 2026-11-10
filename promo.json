@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "jisou",
+      "title": "极搜 · 资源搜索",
+      "subtitle": "影视、动漫、小说，搜啥有啥",
+      "url": "http://t.me/jisou?start=a_1759844134",
+      "sort": 1,
+      "enabled": true,
+      "openIn": "external"
+    },
+    {
+      "id": "flagship",
+      "title": "机场推荐排行榜",
+      "subtitle": "实测精选机场，稳定高速不跑路",
+      "url": "https://flyvpn88.top/2026/01/22/jichangtuijian/",
+      "sort": 2,
+      "enabled": true,
+      "openIn": "webview"
+    },
+    {
+      "id": "binance",
+      "title": "币安",
+      "subtitle": "",
+      "url": "",
+      "sort": 3,
+      "enabled": false,
+      "openIn": "external"
+    },
+    {
+      "id": "jichangshare",
+      "title": "免费节点频道",
+      "subtitle": "每 36 小时更新一池免费节点",
+      "url": "https://t.me/jichangshare",
+      "sort": 4,
+      "enabled": true,
+      "openIn": "external"
+    }
+  ]
+}
