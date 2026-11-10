@@ -34,3 +34,13 @@ vless://3bb97d46-789b-4229-88f6-9beb222a4137@176.100.37.154:443?encryption=none&
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=mother-earth.fyi&type=tcp#U%E2%9A%AA%F0%9F%8F%B3%EF%B8%8Fukn%5B%E2%9C%88%EF%B8%8F%5D_dokng.com_9bed8211
 vless://e08d9bc5-6832-4dd4-bd44-d9bbe61e5817@g01tig3hasus3.dnetsolutions.ru:443?encryption=none&fp=chrome&mode=gun&pbk=4qE0kXmxDvNzsns2jdwd74AN35RptcTD4eKo5REa9w8&security=reality&serviceName=grpc-67&sid=04&sni=max.ru&type=grpc#A%F0%9F%9F%A2%F0%9F%87%BA%F0%9F%87%B8res%5B%F0%9F%8E%AC%F0%9F%A4%96%F0%9F%93%BA%F0%9F%8E%AD%5D_dokng.com_8f4f8c67
 trojan://6cddea99-9b18-4d42-8638-131bd9f5374f@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net:443?sni=8b1c7c70-ecf1-6891-9fa7-68a86662f902.cheathub.net&security=tls&insecure=1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD_IPV4%20(2)
+
+<!-- ECO-NAV -->
+
+## 更多入口
+
+- 📺 免费节点频道（每 36 小时更新一池）：https://t.me/jichangshare
+- 🌐 节点池网页版：https://jichangfree.com
+- 📱 安卓 App「节点管家」：内置本节点池、自动更新，不用手动换订阅
+- 📚 Telegram 新手教程：https://tgsoso.top
+- 💬 资源分享频道：https://t.me/ziyuandaily ｜ 交流群：https://t.me/ziyuan_daily
